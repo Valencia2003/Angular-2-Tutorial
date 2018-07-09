@@ -1,6 +1,6 @@
 /* HeroesComponent's private CSS styles */
 .selected {
-  background-color: darkslateblue !important;
+  background-color: dodgerblue !important;
   color: white;
 }
 .heroes {
@@ -20,7 +20,7 @@
   border-radius: 4px;
 }
 .heroes li.selected:hover {
-  background-color: mediumspringgreen !important;
+  background-color: crimson !important;
   color: white;
 }
 .heroes li:hover {
